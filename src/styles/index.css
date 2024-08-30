@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  text-rendering: optimizeLegibility;
+}
+
+body {
+  background-color: #f6f7fb;
+  margin: 0;
+  padding: 0;
+}

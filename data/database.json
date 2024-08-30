@@ -1,0 +1,68 @@
+{
+  "properties": [
+    {
+      "id": 1,
+      "image": "https://plus.unsplash.com/premium_photo-1713829602915-015d279b40a2?q=80&w=1910&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "bedrooms": 3,
+      "address": "132 Main St, Anytown, AT 12345",
+      "price": "£300,000",
+      "status": "active"
+    },
+    {
+      "id": 2,
+      "image": "https://images.unsplash.com/photo-1509983491249-f06f7a9d066f?q=80&w=1886&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "bedrooms": 2,
+      "address": "456 Elm St, Othertown, OT 67890",
+      "price": "£200,000",
+      "status": "expired"
+    },
+    {
+      "id": 3,
+      "image": "https://plus.unsplash.com/premium_photo-1677486561470-a08da2b6ffc8?q=80&w=1957&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "bedrooms": 4,
+      "address": "789 Oak St, Sometown, ST 11223",
+      "price": "£400,000",
+      "status": "active"
+    },
+    {
+      "id": 4,
+      "image": "https://images.unsplash.com/photo-1463741408080-b210ee5227dc?q=80&w=1785&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "bedrooms": 3,
+      "address": "101 Pine St, Anycity, AC 33445",
+      "price": "£350,000",
+      "status": "pending"
+    },
+    {
+      "id": 5,
+      "image": "https://images.unsplash.com/photo-1504615755583-2916b52192a3?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "bedrooms": 5,
+      "address": "202 Maple St, Newtown, NT 55667",
+      "price": "£500,000",
+      "status": "active"
+    },
+    {
+      "id": 6,
+      "image": "https://plus.unsplash.com/premium_photo-1663091111534-eb8725efc4bb?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "bedrooms": 2,
+      "address": "303 Birch St, Oldtown, OT 77889",
+      "price": "£250,000",
+      "status": "expired"
+    },
+    {
+      "id": 7,
+      "image": "https://images.unsplash.com/photo-1514542996715-a1ff9ccfb039?q=80&w=1935&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "bedrooms": 3,
+      "address": "404 Cedar St, Smalltown, ST 99000",
+      "price": "£320,000",
+      "status": "active"
+    },
+    {
+      "id": 8,
+      "image": "https://images.unsplash.com/photo-1579627559241-aa855a66df15?q=80&w=1431&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "bedrooms": 1,
+      "address": "123 Birch St, ForestHill, AT 01000",
+      "price": "£230,100",
+      "status": "active"
+    }
+  ]
+}
