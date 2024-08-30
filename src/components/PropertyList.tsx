@@ -22,12 +22,20 @@ const PropertyList: React.FC = () => {
   }, []);
 
   return (
-    <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4 p-4">
+    <div
+      className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4 p-4"
+      role="list"
+      aria-label="Property list"
+    >
       {error ? (
-        <div>{error}</div>
+        <div role="alert" aria-live="assertive">
+          {error}
+        </div>
       ) : (
         properties.map((property: Property) => (
-          <PropertyCard key={property.id} {...property} />
+          <div role="listitem" key={property.id}>
+            <PropertyCard {...property} />
+          </div>
         ))
       )}
     </div>

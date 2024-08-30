@@ -1,0 +1,25 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`App Component > matches snapshot 1`] = `
+<DocumentFragment>
+  <div>
+    <nav
+      aria-label="Main navigation"
+      class="bg-white p-4 flex justify-between items-center border-b border-gray-200"
+    >
+      <div
+        aria-level="1"
+        class="text-black font-sans text-2xl"
+        role="heading"
+      >
+        Estate Agent Property Manager
+      </div>
+    </nav>
+    <div
+      aria-label="Property list"
+      class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4 p-4"
+      role="list"
+    />
+  </div>
+</DocumentFragment>
+`;
