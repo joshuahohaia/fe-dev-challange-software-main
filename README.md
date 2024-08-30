@@ -1,6 +1,10 @@
 # Houseful front-end challenge
 A simple front-end application that will enable real estate agents to manage property listings.
 
+## Requirements
+- **Node.js**: >= 14.0.0
+- **TypeScript**: 5.4.5
+
 ## Usage
 ```sh
 # Install dependencies
@@ -21,6 +25,8 @@ pnpm test:watch
 - [x] Import additional dependencies
 - [x] Scaffold UI with Mock Design (View a list of properties for sale w/Active||Expired)
 - [x] Mock API calls using JSON Server
+- [x] schema validation for properties (zod) 
+- [ ] Refactor: Organize Types into Separate Folder
 - [ ] Mark an individual property listing as expired
 - [ ] Unit testing / E2E Tests
 - [ ] Refine Property List Cards and Designs

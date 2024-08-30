@@ -30,7 +30,7 @@
       "bedrooms": 3,
       "address": "101 Pine St, Anycity, AC 33445",
       "price": "£350,000",
-      "status": "pending"
+      "status": "active"
     },
     {
       "id": 5,
