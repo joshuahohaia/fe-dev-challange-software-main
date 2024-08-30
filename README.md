@@ -1,15 +1,18 @@
 # Houseful front-end challenge
+
 A simple front-end application that will enable real estate agents to manage property listings.
 
 ## Requirements
+
 - **Node.js**: >= 14.0.0
 - **TypeScript**: 5.4.5
 
 ## Demo
+
 ![Houseful Demo](./assets/houseful_demo.gif)
 
-
 ## Usage
+
 ```sh
 # Install dependencies
 pnpm i
@@ -26,10 +29,11 @@ pnpm test:watch
 ```
 
 ## Features
+
 - [x] Import additional dependencies
 - [x] Scaffold UI with Mock Design (View a list of properties for sale w/Active||Expired)
 - [x] Mock API calls using JSON Server
-- [x] schema validation for properties (zod) 
+- [x] schema validation for properties (zod)
 - [x] Refactor: Organize Types into Separate Folder
 - [x] Mark an individual property listing as expired
 - [x] Unit testing / E2E Tests
@@ -37,6 +41,7 @@ pnpm test:watch
 - [ ] Refine Property List Cards and Designs
 
 ## Future Features
+
 - User authentication and authorization for secure access to property listings(0auth).
 - Implement data validation and error handling to ensure data integrity(zod schema validation).
 - Integrate analytics(PostHog/Sentry) to track user interactions and application performance.
@@ -51,7 +56,7 @@ pnpm test:watch
 - Profile customisation/locality.
 
 ## Code Style
-This project uses ESLint and Prettier for code linting and formatting. Please ensure your code adheres to these standards before submitting a pull request.
 
+This project uses ESLint and Prettier for code linting and formatting. Please ensure your code adheres to these standards before submitting a pull request.
 
 > Continue reading requirements [here](README_INSTRUCTIONS.md)
