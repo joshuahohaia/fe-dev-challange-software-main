@@ -5,6 +5,10 @@ A simple front-end application that will enable real estate agents to manage pro
 - **Node.js**: >= 14.0.0
 - **TypeScript**: 5.4.5
 
+## Demo
+![Houseful Demo](./assets/houseful_demo.gif)
+
+
 ## Usage
 ```sh
 # Install dependencies
@@ -26,11 +30,11 @@ pnpm test:watch
 - [x] Scaffold UI with Mock Design (View a list of properties for sale w/Active||Expired)
 - [x] Mock API calls using JSON Server
 - [x] schema validation for properties (zod) 
-- [ ] Refactor: Organize Types into Separate Folder
-- [ ] Mark an individual property listing as expired
-- [ ] Unit testing / E2E Tests
+- [x] Refactor: Organize Types into Separate Folder
+- [x] Mark an individual property listing as expired
+- [x] Unit testing / E2E Tests
+- [x] Update README.md
 - [ ] Refine Property List Cards and Designs
-- [ ] Update README.md
 
 ## Future Features
 - User authentication and authorization for secure access to property listings(0auth).
